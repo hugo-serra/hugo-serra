@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Hugo.
+
+I'm a Software Engineer and Team Leader at [Runtime Revolution](https://www.runtime-revolution.com/) based in Lisbon 🇵🇹.
+During work I mostly develop webapps for clients that need high performance and high availability systems to manage their data and or processes, and In my spare time I really enjoy 📷 photography and ☕ coffee (of course) and 🍳 cooking.
+
+### Things I work with (🚧 WIP)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <!--
 **hugo-serra/hugo-serra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
