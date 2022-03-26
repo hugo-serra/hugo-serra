@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hugo.
 
 I'm a Software Engineer and Team Leader at [Runtime Revolution](https://www.runtime-revolution.com/) from Lisbon, currently based in Faro 🇵🇹.
-During work I mostly develop webapps for clients that need high performance and high availability systems to manage their data and or processes, and In my spare time I really enjoy 📷 photography and ☕ coffee (of course) and 🍳 cooking.
+During work I mostly develop webapps for clients that need high performance and high availability systems to manage their data and or processes, and In my spare time I really enjoy 📷 photography, ☕ coffee (of course) and 🍳 cooking.
 
 ### Things I work with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
