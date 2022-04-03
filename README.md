@@ -1,3 +1,4 @@
+<!-- ![main](https://github.com/hugo-serra/hugo-serra/actions/workflows/main.yml/badge.svg) -->
 <a href="https://app.daily.dev/hserra">
   <img src="devcard.svg" width="256" alt="Hugo Serra's Dev Card" align="right"/>
 </a>
@@ -6,6 +7,10 @@
 
 I'm a Software Engineer and Team Leader at [Runtime Revolution](https://www.runtime-revolution.com/) from Lisbon, currently based in Faro 🇵🇹.
 During work I mostly develop webapps for clients that need high performance and high availability systems to manage their data and or processes, and In my spare time I really enjoy 📷 photography, ☕ coffee (of course) and 🍳 cooking.
+
+<img src="https://github-readme-stats.vercel.app/api?username=hugo-serra&show_icons=true&theme=dark" alt="Hugo's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-serra&layout=compact&theme=dark" alt="Top Langs" />
 
 ### Things I work with
 
