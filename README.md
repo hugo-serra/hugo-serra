@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/hserra">
-  <img src="https://api.daily.dev/devcards/a2481ee55c7c472ab91ddc222d5ac6c1.png?r=5to" width="256" alt="Hugo Serra's Dev Card" align="right"/>
+  <img src="devcard.svg" width="256" alt="Hugo Serra's Dev Card" align="right"/>
 </a>
 
 ### Hi there 👋, I'm Hugo.
